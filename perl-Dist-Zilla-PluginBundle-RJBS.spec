@@ -1,5 +1,5 @@
 %define upstream_name    Dist-Zilla-PluginBundle-RJBS
-%define upstream_version 0.100910
+%define upstream_version 0.101040
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
