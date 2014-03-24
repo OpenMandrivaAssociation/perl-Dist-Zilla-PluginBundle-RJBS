@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-PluginBundle-RJBS-1.000.tar.gz: dc6bd397db9885680d5e8bf5a6c0ef18bacd125b
 sources:
-  "Dist-Zilla-PluginBundle-RJBS-1.000.tar.gz": dc6bd397db9885680d5e8bf5a6c0ef18bacd125b
+  Dist-Zilla-PluginBundle-RJBS-5.004.tar.gz: cc37ddf57169a7c4613b14876bbeb5e494fd9b24

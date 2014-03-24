@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-PluginBundle-RJBS
-%define upstream_version 1.000
+%define upstream_version 5.004
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	See what the mantissa for an rjbs-style version is today
 License:	GPL+ or Artistic
@@ -54,5 +54,6 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes LICENSE README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
 
